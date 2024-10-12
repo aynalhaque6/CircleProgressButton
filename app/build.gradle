@@ -10,6 +10,8 @@ publishing {
             groupId = 'com.github.aynalhaque6'
             artifactId = 'circleprogressbutton'
             version = '1.0.0'
+
+            artifact("$buildDir/outputs/aar/${project.getName()}-release.aar")
         }
     }
 }
