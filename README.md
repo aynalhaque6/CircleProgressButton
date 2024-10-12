@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 > Step 2. Add the dependency
 ```gradle
 dependencies {
-	        implementation 'com.github.aynalhaque6:CircleProgressButton:Tag'
+	        implementation 'com.github.aynalhaque6:CircleProgressButton:1.0'
 	}
 ```
 > Usage
